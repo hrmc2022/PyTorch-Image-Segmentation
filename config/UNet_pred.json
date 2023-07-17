@@ -1,0 +1,5 @@
+{
+    "outdir": "./pred",
+    "image": "./data/VOCdevkit/VOC2012/JPEGImages/2007_000027.jpg",
+    "model": "./result/train_200epoch/ckpt/model_200.pth" 
+}
